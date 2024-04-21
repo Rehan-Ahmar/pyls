@@ -16,7 +16,7 @@ Only requirement for this program is presence of Python 3.x and pip.
 
 Once Python 3 and pip are installed, simply run the following pip command:
 ```
-pip install pyls-rehan
+pip install -i https://test.pypi.org/simple/ pyls-rehan
 ```
 
 
