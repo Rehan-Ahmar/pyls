@@ -16,3 +16,7 @@ classifiers = [
 [project.urls]
 Homepage = "https://github.com/Rehan-Ahmar/pyls"
 Issues = "https://github.com/Rehan-Ahmar/pyls/issues"
+
+[project.scripts]
+pyls = "pyls:main"
+
