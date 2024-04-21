@@ -1,0 +1,18 @@
+[project]
+name = "pyls"
+version = "0.0.1"
+authors = [
+  { name="Rehan Ahmar Sk", email="rehan.ahmar93@gmail.com" },
+]
+description = "Prints the contents of input json file to console in the style of unix 'ls' utility"
+readme = "README.md"
+requires-python = ">=3.0"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Rehan-Ahmar/pyls"
+Issues = "https://github.com/Rehan-Ahmar/pyls/issues"
