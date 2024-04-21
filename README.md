@@ -49,11 +49,11 @@ The input JSON file should be in the following format:
   ]
 }
 ```
-Field 'name' refers to the name of the file or directory.
-Field 'size' refers to the size on disk in bytes.
-Field 'time_modified' refers to the time the file or directory was last modified in unix time.
-Field 'permissions' refers to the permissions for the file or directory in unix terms.
-Field 'contents' is only present for directories and can contain a list of other items that are present within the directory.
+- Field 'name' refers to the name of the file or directory.
+- Field 'size' refers to the size on disk in bytes.
+- Field 'time_modified' refers to the time the file or directory was last modified in unix time.
+- Field 'permissions' refers to the permissions for the file or directory in unix terms.
+- Field 'contents' is only present for directories and can contain a list of other items that are present within the directory.
 
 
 <a name="usage"></a>
