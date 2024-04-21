@@ -105,7 +105,7 @@ def main():
     parser.add_argument("-l", "--longformat", dest='long_format', action="store_true", default=False,
                         help="Display the results vertically with detailed information in long format.")
     parser.add_argument("-r", "--reverse", dest="reverse_results", action="store_true", default=False,
-                        help="Display the results in reverse lexicographical order.")
+                        help="Display the results in reverse order.")
     parser.add_argument("-t", dest="timeordered", action="store_true", default=False,
                         help="Display the results sorted by time_modified field (oldest first).")
     parser.add_argument("-h", dest="human_readable", action="store_true",
